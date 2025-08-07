@@ -1,4 +1,5 @@
-# **Hi there, I'm RP Wadhwa**👋  ![Selfie](https://github.com/user-attachments/assets/6f499159-7257-4028-93b6-ad5efa9e3dc7)
+# **Hi there, I'm RP Wadhwa**👋  ![Selfie](https://github.com/user-attachments/assets/70c66c8c-6305-4316-af9a-2ddcd3e5f57e)
+
 
 
 ## **About Me**
