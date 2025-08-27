@@ -2,7 +2,7 @@
 # **Hi👋 My name is Rash Paul Wadhwa**  
 [Click here to view my digital portfolio](https://rashpaul3051c4.myportfolio.com/)
    
-## **Aspiring Data Analyst | Building Skills in Data Analysis & Visualization**  
+## **Aspiring Data Analyst | Building Skills in Data Analysis & Visualisation**  
 ---  
 I am a highly motivated and detail-oriented individual with a strong foundation
 in computer science, and a passion for transforming complex data 
