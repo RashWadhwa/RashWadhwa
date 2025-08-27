@@ -43,5 +43,5 @@ I'll start this September a Bachelor's degree in Applied Data Science at Harper 
     
 - Excel
     
-
+##          Always learning, always exploring new ways to make data tell a story! 
 
