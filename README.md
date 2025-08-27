@@ -23,26 +23,7 @@ I'll start this September a Bachelor's degree in Applied Data Science at Harper 
 ✉️  You can contact me at [wadhwa820@gmail.com](mailto:wadhwa820@gmail.com)  
 
 ### Skills  
-<p align="left">  
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/
-danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" 
-alt="Python" /></a>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/
-danielcranney/readme-generator/main/public/icons/skills/mysql-coloured.svg" width="36" height="36" alt="MySQL" /
-></a>  
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img 
-src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="36" height="36" alt="Excel" /></
-a>  
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/
-color/48/000000/power-bi.png" width="36" height="36" alt="Power BI" /></a>  
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/
-000000/tableau-software.png" width="36" height="36" alt="Tableau" /></a>  
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://img.
-icons8.com/color/48/000000/microsoft-sql-server.png" width="36" height="36" alt="Microsoft SQL Server" /></
-a>  
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/
-48/000000/sql.png" width="36" height="36" alt="SQL" /></a> 
-</p>  
+
 
 
 
@@ -50,15 +31,15 @@ a>
 
 ### Projects
 
-- Excel
+- AWS
     
 - Power BI
    
-- SQL
-    
+- SQL + Python
+  
 - Tableau
     
-- Python
+- Excel
     
 
 
