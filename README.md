@@ -4,15 +4,15 @@
    
 ## **Aspiring Data Analyst | Building Skills in Data Analysis & Visualization**  
 ---  
-I am a highly motivated and detail-oriented individual with a strong A 
-foundation in computer science and a passion for transforming complex data 
+I am a highly motivated and detail-oriented individual with a strong foundation
+in computer science, and a passion for transforming complex data 
 into actionable insights. Recently, I completed an intensive Data Skills 
 Bootcamp with Just IT Training, where I gained practical experience in 
 Python, SQL, Power BI, Tableau, Excel, and Azure. I am eager to apply my 
 analytical skills, technical expertise, and business acumen to solve 
 real-world challenges, contribute to data-driven decision-making, and 
 continue developing my skills in a dynamic environment. 
-I'm an AI enthusiast and a passionate data analyst who loves statistics and transforming raw data into meaningful insights.
+I am an AI enthusiast and a passionate data analyst who loves statistics and transforming raw data into meaningful insights.
 I enjoy working across tools like Excel, SQL, Tableau, Power BI, Python, Azure, and AWS to deliver value through reports and dashboards by doing end-to-end projects.
 Productive and competent with great attention to detail and multitasking skills.
 
