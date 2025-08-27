@@ -22,14 +22,19 @@ I'll start this September a Bachelor's degree in Applied Data Science at Harper 
 
 ✉️  You can contact me at [wadhwa820@gmail.com](mailto:wadhwa820@gmail.com)  
 
-### Skills  
+##  Skills
+ 
+<p align="center">
+<img src="Icons/AWS.png" alt="AWS" width="100"/>
+<img src="Icons/Azure.png" alt="Azure" width="100"/>
+<img src="Icons/Excel.png" alt="Excel" width="100"/>
+<img src="Icons/Power BI.png" alt="Power BI" width="100"/>
+<img src="Icons/Python.png" alt="Python" width="100"/>
+<img src="Icons/SQL Server.png" alt="SQL Server" width="100"/>
+<img src="Icons/Tableau.png" alt="Tableau" width="100"/>
+</p>
 
-
-
-
-
-
-### Projects
+## Projects
 
 - AWS
     
