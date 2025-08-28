@@ -19,7 +19,7 @@ I'll start this September a Bachelor's degree in Applied Data Science at Harper 
 
 ✉️  You can contact me at [wadhwa820@gmail.com](mailto:wadhwa820@gmail.com)  
 
-##  Skills
+##  Technical Skills
  
 <p align="center">
 <img src="Icons/AWS.png" alt="AWS" width="100"/>
