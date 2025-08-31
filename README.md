@@ -1,7 +1,9 @@
 
 # **Hi👋 My name is Rash Paul Wadhwa**  
-[Click here to view my digital portfolio](https://rashpaul3051c4.myportfolio.com/)
-   
+[Click here to view my Website](https://sites.google.com/d/1_iuY-s7ai31YG69LW_B5TwaXzo0Ttbnx/p/1GSv55CIHo2VNEDFpjp9P8llPfUW9ejdw/edit)
+
+[Click here to view my digital portfolio](https://portfolio.adobe.com/bd413667-7c15-4de0-b9d5-ff29c6583a70/editor/projects)   
+
 ## ** Data Analyst | Bussiness Analyst**  
 ---  
 
