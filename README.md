@@ -4,7 +4,7 @@
 
 [Click here to view my digital portfolio](https://portfolio.adobe.com/bd413667-7c15-4de0-b9d5-ff29c6583a70/editor/projects)   
 
-## ** Data Analyst | Bussiness Analyst**  
+## ** Data Analyst | Bussiness Intelligence (BI) Analyst**  
 ---  
 
 I am a highly motivated and detail-oriented individual with a strong foundation in computer science and a passion for converting complex data into actionable insights. 
