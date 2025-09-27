@@ -39,17 +39,11 @@ Currently, I'm doing a Bachelor's degree in Applied Data Science at Harper Adams
 <img src="Icons/Tableau.png" alt="Tableau" width="100"/>
 </p>
 
-## Projects
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RashWadhwa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RashWadhwa&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RashWadhwa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- AWS
-    
-- Power BI
-   
-- SQL + Python
-  
-- Tableau
-    
-- Excel
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
