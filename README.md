@@ -16,6 +16,7 @@ Productive and competent, with great attention to detail and strong multitasking
 
 Currently, I'm doing a Bachelor's degree in Applied Data Science at Harper Adams University, Telford.
 
+![](https://komarev.com/ghpvc/?username=RashWadhwa)
 
 🌍  I'm based in Wolverhampton 
 
@@ -44,6 +45,8 @@ Currently, I'm doing a Bachelor's degree in Applied Data Science at Harper Adams
 - Tableau
     
 - Excel
-    
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ##          Always learning, always exploring new ways to make data tell a story! 
 
