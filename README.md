@@ -1,10 +1,11 @@
+# **Hi👋 My name is Rash Paul Wadhwa**  
+
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVnZHE4dTQxNXVtYTN5cThnZTk5azFwa2F0anFtbmJvbzJ3MWV1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCX5DuIcgDfWc6s/giphy.gif" width="600" height="300"/>
 </div>
 <br />
 <br />
 
-# **Hi👋 My name is Rash Paul Wadhwa**  
 [Click here to view my Website](https://sites.google.com/d/1_iuY-s7ai31YG69LW_B5TwaXzo0Ttbnx/p/1GSv55CIHo2VNEDFpjp9P8llPfUW9ejdw/edit)
 
 [Click here to view my digital portfolio](https://portfolio.adobe.com/bd413667-7c15-4de0-b9d5-ff29c6583a70/editor/projects)   
