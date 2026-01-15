@@ -39,7 +39,6 @@ Currently, I'm pursuing a Bachelor's degree in Applied Data Science at Harper Ad
 <img src="Icons/SQL Server.png" alt="SQL Server" width="80"/>
 <img src="Icons/AWS.png" alt="AWS" width="80"/>
 <img src="Icons/Azure.png" alt="Azure" width="80"/>
-
 </p>
 
 ### 📊 GitHub Stats:
@@ -50,5 +49,5 @@ Currently, I'm pursuing a Bachelor's degree in Applied Data Science at Harper Ad
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-##          Always learning, always exploring new ways to make data tell a story! 
+###         Always learning, always exploring new ways to make data tell a story! 
 
