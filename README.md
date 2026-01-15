@@ -13,11 +13,11 @@
 ## **Data Analyst | Bussiness Intelligence (BI) Analyst**  
 ---  
 
-I am a highly motivated and detail-oriented individual with a strong foundation in computer science and a passion for converting complex data into actionable insights. 
-Recently, I completed an intensive Data Skills Bootcamp with Just IT Training, where I gained practical experience in Python, SQL, Power BI, Tableau, Excel, and Azure. 
+I am a highly motivated, detail-oriented individual with a strong foundation in computer science and a passion for turning complex data into actionable insights. 
+Recently, I completed an intensive Data Skills Bootcamp with Just IT Training, gaining practical experience in Python, RStudio, Quarto, SQL, Power BI, Tableau, Excel, AWS, and Azure. 
 I am eager to apply my analytical skills, technical expertise, and business acumen to address real-world challenges, support data-driven decision-making, and further 
 develop my skills in a dynamic environment. I am an AI enthusiast and a passionate data analyst who loves statistics and turning raw data into meaningful insights. 
-I enjoy working with various tools, including Excel, SQL, Tableau, Power BI, Python, Azure, and AWS, to deliver value through reports and dashboards by completing end-to-end projects. 
+I enjoy working with a range of tools, including Excel, SQL, Tableau, Power BI, Python, Azure, and AWS, to deliver value through reports and dashboards by completing end-to-end projects. 
 Productive and competent, with great attention to detail and strong multitasking skills.
 
 Currently, I'm pursuing a Bachelor's degree in Applied Data Science at Harper Adams University in Telford.
