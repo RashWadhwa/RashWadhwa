@@ -1,4 +1,4 @@
-# **Hi👋 My name is Rash Paul Wadhwa, everyone calls me RP**  
+# **Hi👋 My name is Rash Paul Wadhwa, everyone calls me RP**.  
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVnZHE4dTQxNXVtYTN5cThnZTk5azFwa2F0anFtbmJvbzJ3MWV1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCX5DuIcgDfWc6s/giphy.gif" width="600" height="300"/>
@@ -6,27 +6,33 @@
 <br />
 <br />
 
-[Click here to view my Website](https://sites.google.com/d/1_iuY-s7ai31YG69LW_B5TwaXzo0Ttbnx/p/1GSv55CIHo2VNEDFpjp9P8llPfUW9ejdw/edit)
-
-[Click here to view my digital portfolio](https://portfolio.adobe.com/bd413667-7c15-4de0-b9d5-ff29c6583a70/editor/projects)   
-
-## **Data Analyst | Bussiness Intelligence (BI) Analyst**  
+## **Data Professional**  
 ---  
 
-I am a highly motivated, detail-oriented individual with a strong foundation in computer science and a passion for turning complex data into actionable insights. 
-Recently, I completed an intensive Data Skills Bootcamp with Just IT Training, gaining practical experience in Python, RStudio, Quarto, SQL, Power BI, Tableau, Excel, AWS, and Azure. 
-I am eager to apply my analytical skills, technical expertise, and business acumen to address real-world challenges, support data-driven decision-making, and further 
-develop my skills in a dynamic environment. I am an AI enthusiast and a passionate data analyst who loves statistics and turning raw data into meaningful insights. 
-I enjoy working with a range of tools, including Excel, SQL, Tableau, Power BI, Python, Azure, and AWS, to deliver value through reports and dashboards by completing end-to-end projects. 
-Productive and competent, with great attention to detail and strong multitasking skills.
+I am a Data Professional and Applied Data Science practitioner at Harper Adams University, specialising in transforming raw data into high-fidelity actionable insights.
+My work bridges the gap between complex statistical analysis and scalable cloud architecture.
 
-Currently, I'm pursuing a Bachelor's degree in Applied Data Science at Harper Adams University in Telford.
+**Professional Development:**
+
+**Specialised Training:** Completed technical sprints with Sparta Education (Cloud & DevOps focus) and the Just IT Data Skills Bootcamp.
+**Academic:** Advancing expertise in Applied Data Science at Harper Adams University.
+
+| Category             | Stack                                      |
+|----------------------|--------------------------------------------|
+| Analytics & Logic    | Python (Pandas, NumPy), R, SQL, Statistics |
+| Cloud Infrastructure | AWS (EC2, S3, VPC, IAM), Azure, MongoDB    |
+| BI & Visualisation   | Power BI, Tableau, Excel, Quarto           |
+| Data Engineering     | End-to-End Pipeline Development, NoSQL     |
 
 ![](https://komarev.com/ghpvc/?username=RashWadhwa)
 
-🌍  I'm based in Wolverhampton 
+🌍  Wolverhampton 
 
-✉️  You can contact me at [wadhwa820@gmail.com](mailto:wadhwa820@gmail.com)  
+✉️ Connect with me at 
+
+[wadhwa820@gmail.com](mailto:wadhwa820@gmail.com) 
+
+[LinkedIn](https://www.linkedin.com/in/rp-wadhwa/)
 
 ##  Technical Skills
  
@@ -45,6 +51,19 @@ Currently, I'm pursuing a Bachelor's degree in Applied Data Science at Harper Ad
 ![](https://github-readme-stats.vercel.app/api?username=RashWadhwa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RashWadhwa&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RashWadhwa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Featured Projects
+Showcasing expertise across Cloud, Databases, and Analytics.
+
+**ETL Projects: AWS & MongoDB Integration**
+  - The Challenge: Developed a scalable data ingestion layer for high-volume unstructured data.
+  - The Solution: Leveraged AWS services to architect a pipeline feeding into MongoDB, ensuring data integrity and high availability.
+  - Key Skill: Cloud Architecture & NoSQL Management.
+
+**Walmart and Costco: End-to-End BI Dashboard**
+  - The Challenge: Translating raw SQL extracts into executive-level insights.
+  - The Solution: Designed an interactive Power BI/Tableau dashboard focused on real-world business KPIs.
+  - Key Skill: Data Storytelling & Stakeholder Communication.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
